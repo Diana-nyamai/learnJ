@@ -1,3 +1,5 @@
+package src;
+
 import mypack.Mypack;
 
 public class Accmypack {

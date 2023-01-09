@@ -1,8 +1,8 @@
-package Codngwithmosh;
+package src.Codngwithmosh;
 
 public class LinkedListMain {
     public static void main(String[] args) {
-     var list = new LinkedListScratch();
+     var list = new Codngwithmosh.LinkedListScratch();
      list.Addlast(20);
      list.Addlast(30);
      list.Addlast(40);
