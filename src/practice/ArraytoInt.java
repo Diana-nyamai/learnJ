@@ -1,4 +1,4 @@
-package practice1;
+package src.practice;
 
 public class ArraytoInt {
     public static void main(String[] args) {
